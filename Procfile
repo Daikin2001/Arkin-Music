@@ -1,1 +1,1 @@
-run: java -jar JMusicBot-0.2.1.jar -nogui
+run: java -jar JMusicBot-0.2.2.jar -nogui
